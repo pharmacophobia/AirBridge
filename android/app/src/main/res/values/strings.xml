@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AirBridge</string>
+    <string name="channel_name">AirBridge Microphone Service</string>
+    <string name="channel_description">Active low-latency audio stream to PC</string>
+    <string name="mic_active_title">AirBridge Mic Active</string>
+    <string name="mic_active_text">Streaming low-latency microphone audio to PC</string>
+</resources>

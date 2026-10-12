@@ -1,0 +1,47 @@
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Whitelist root application APK for direct GitHub distribution
+*.apk
+!AirBridge.apk
+
+# Android build outputs & caches
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+.idea/
+.gradle/
+*.iml
+android/*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Desktop output
+desktop/recordings/
+*.swp
+*~
+.DS_Store

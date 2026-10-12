@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=AirBridge
+Comment=Computer & Android Companion: Virtual Mic, Image Vault, AI Transcriptions
+Exec=/home/k/AirBridge/run.sh
+Icon=/home/k/AirBridge/desktop/assets/airbridge.png
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;Utility;Network;
+StartupNotify=true
